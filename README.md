@@ -3,4 +3,4 @@ PWNVS
 
 this is a readme
 
-[bookmarklet](./PWNVS/PWNVS/showPWN.js)
+[bookmarklet](https://raw.githubusercontent.com/tituman/PWNVS/master/PWNVS/showPWN.js)
