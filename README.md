@@ -33,6 +33,6 @@ one of these three rooms will be available for you. It will not be furnished (we
 - 5min to the train station (+12min to Wels by train)
 - south facing balcony
 - parquet floor
-- 
+
 
 Kaution: 1166.67
