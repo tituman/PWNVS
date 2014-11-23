@@ -1,6 +1,6 @@
 # 1 Room (13m2 or 19m2 or 27m2) in Linz apartment (165m2) for rent
 
-[apartment.pdf](http://tituman.github.io/PWNVS/docs/Goetestr30.pdf)
+[apartment.pdf](http://tituman.github.io/tituman/docs/Goetestr30.pdf)
 
 ## About us and the apartment
 We are two international students (27, 29) from the FH-Wels (Automatisierungstechnik, AT), now employed in Linz, but still active at the FH, and we are looking for a third person (preferably international student) to take one of the three rooms in our apartment. 
